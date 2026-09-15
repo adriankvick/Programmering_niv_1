@@ -30,3 +30,5 @@ else:
 
 if ålder == 17 and namn == "Adrian":
     print("Ej, so sigma my g that is my name and age too, wait... might you be me?")
+else:
+    print("Aw hell naw!")
